@@ -108,7 +108,7 @@ h1,h2,h3,h4,h5,h6{
 .story_card:hover{
 	background: red;
 	color:#fff;
-	transform: scale(1.1, .50)
+	transform: scale(1.1, 1.5)
 }
 
 
